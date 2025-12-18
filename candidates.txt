@@ -1,0 +1,4 @@
+influencer_id,name,platform,cost_model,unit_cost,expected_impressions,expected_cvr,value_per_conversion
+inf_1,Creator A,TikTok,flat,10000,200000,0.005,80
+inf_2,Creator B,Instagram,flat,15000,150000,0.004,75
+
